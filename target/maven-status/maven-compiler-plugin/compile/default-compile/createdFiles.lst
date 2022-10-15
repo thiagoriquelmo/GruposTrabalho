@@ -9,6 +9,7 @@ br\edu\ifnmg\grupostrabalho\GrupoBean.class
 br\edu\ifnmg\grupostrabalho\AtuacaoBeanLocal.class
 br\edu\ifnmg\grupostrabalho\Telefone.class
 br\edu\ifnmg\grupostrabalho\EnderecoBeanLocal.class
+br\edu\ifnmg\grupostrabalho\Relatorios.class
 br\edu\ifnmg\grupostrabalho\Endereco.class
 br\edu\ifnmg\grupostrabalho\TelefoneBean.class
 br\edu\ifnmg\grupostrabalho\CargaDados.class
